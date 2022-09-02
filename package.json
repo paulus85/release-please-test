@@ -1,0 +1,19 @@
+{
+  "name": "release-please-test",
+  "version": "1.0.0",
+  "description": "Simple project to test release-please",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulus85/release-please-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulus85/release-please-test/issues"
+  },
+  "homepage": "https://github.com/paulus85/release-please-test#readme"
+}
