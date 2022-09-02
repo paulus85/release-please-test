@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/paulus85/release-please-test/compare/v1.0.0...v1.1.0) (2022-09-02)
+
+
+### Features
+
+* neutral again ([8e21ef1](https://github.com/paulus85/release-please-test/commit/8e21ef1c9fb992891a7643fb2814a33d269a4594))
+
 ## 1.0.0 (2022-09-02)
 
 
